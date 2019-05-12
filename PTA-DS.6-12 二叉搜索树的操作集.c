@@ -222,10 +222,6 @@ BinTree Delete2( ElementType X, BinTree BST ){
     return BST; 
 }
 
-
-
-
-
 /*find函数的尾递归实现*/
 // Position Find( BinTree BST, ElementType X )
 // {
